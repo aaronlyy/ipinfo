@@ -1,7 +1,7 @@
 '''
 lib for accessing the ipinfo.io API.\n
 ------------------------------------\n
-author: Aaron Can // aaronlyy\n
+author: Aaron // aaronlyy\n
 website: https://krotesq.net/\n
 ------------------------------------
 '''
