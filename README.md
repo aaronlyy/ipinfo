@@ -1,4 +1,4 @@
-# ipinfoAPI README
+# ipinfo-api README
 ---
 
 ## Usage
