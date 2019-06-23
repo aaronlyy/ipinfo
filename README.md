@@ -5,10 +5,10 @@
 ```python
 # example.py
 
-import ipinfoapi
+import ipinfo
 
 # create IpInfo Object
-ipapi = ipinfoapi.IpInfo()
+ipapi = ipinfo.IpInfo()
 
 # check if ipinfo.io server is up
 if ipapi.isup():
