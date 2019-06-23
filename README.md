@@ -3,6 +3,8 @@
 
 ## Usage
 ```python
+# example.py
+
 import ipinfoapi
 
 # create IpInfo Object
