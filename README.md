@@ -22,7 +22,6 @@ print(ip)
 
 # request info about an ip
 info = ipapi.reqinfo('8.8.8.8')
-print(info)
 
 # access specific info from container
 # list of all attributes: https://ipinfo.io/developers/responses#full-response (only free plan attributes work)
